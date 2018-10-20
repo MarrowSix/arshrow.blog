@@ -1,2 +1,5 @@
 # pyenv config file
 .python-version
+
+# mkdocs site
+site/
